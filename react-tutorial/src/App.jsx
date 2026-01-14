@@ -3,6 +3,8 @@ import reactLogo from "./assets/react.svg";
 import viteLogo from "/vite.svg";
 import Navbar from "./Navbar.jsx";
 import Product from "./Product.jsx";
+import Footer from "./Footer.jsx";
+import socials from "./data/socials.json";
 import "./App.css";
 
 function App() {
@@ -34,6 +36,7 @@ function App() {
           price={1.66}
         />
       </div>
+      < Footer links={socials} />
     </>
   );
 }
