@@ -5,11 +5,11 @@ export default function Footer({ links }){
         <footer className="footer">
             <div className="footer-top">
                 {
-                    links.map(link => < Social link = {link} />)
+                    links.map((link, index) => < Social key = {index} link = {link} />)
                 }
             </div>
             <div className="footer-bottom">
-                <p>Some Text</p>
+                <p>No rights reserved</p>
             </div>
         </footer>
     );

@@ -14,7 +14,7 @@ function App() {
         title="SuperMarket Testing"
         text="Get a fruit and a fresh React-ion!"
       />
-      <div class="product-grid">
+      <div className="product-grid">
         <Product
           imgLink="https://res.cloudinary.com/dbfn5lnvx/image/upload/v1726640668/react-tutorial/superm-v2/pineapple.jpg"
           name="Pineapple"
