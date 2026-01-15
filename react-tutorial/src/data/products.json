@@ -1,0 +1,38 @@
+[
+  {
+    "id": "pineapple",
+    "imgLink": "https://res.cloudinary.com/dbfn5lnvx/image/upload/v1726640668/react-tutorial/superm-v2/pineapple.jpg",
+    "name": "Pineapple",
+    "price": 2.0
+  },
+  {
+    "id": "apple",
+    "imgLink": "https://img.freepik.com/free-psd/close-up-delicious-apple_23-2151868338.jpg",
+    "name": "Apple",
+    "price": 3.15
+  },
+  {
+    "id": "banana",
+    "imgLink": "https://images.unsplash.com/photo-1587132137056-bfbf0166836e?fm=jpg&q=60&w=3000",
+    "name": "Banana",
+    "price": 1.5
+  },
+  {
+    "id": "pear",
+    "imgLink": "https://static.vecteezy.com/system/resources/thumbnails/005/170/812/small/pear-green-with-pear-slices-and-leaves-vitamins-healthy-food-fruit-on-a-white-background-realistic-3d-illustration-vector.jpg",
+    "name": "Pear",
+    "price": 1.66
+  },
+  {
+    "id": "orange",
+    "imgLink": "https://images.unsplash.com/photo-1547514701-42782101795e",
+    "name": "Orange",
+    "price": 2.25
+  },
+  {
+    "id": "strawberry",
+    "imgLink": "https://images.unsplash.com/photo-1587393855524-087f83d95bc9",
+    "name": "Strawberry",
+    "price": 4.5
+  }
+]
